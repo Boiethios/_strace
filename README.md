@@ -1,0 +1,2 @@
+# _strace
+School project
